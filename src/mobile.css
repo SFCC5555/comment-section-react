@@ -1,4 +1,4 @@
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
     .characterCard {
         width: 87%;
     }
@@ -44,7 +44,6 @@
     .react p {
     font-size: 1.1rem;
     }
-
 
 
 }
