@@ -1,7 +1,9 @@
 import React from 'react';
 import './App.css';
-import {CharacterCard} from './components/CharacterCard'
-import characterList from './characters.json'
+import {CharacterCard} from './components/CharacterCard';
+import characterList from './characters.json';
+import logo from './logo.svg';
+import './mobile.css';
 
 function App() {
 
@@ -15,6 +17,11 @@ function App() {
               country={character.country} 
               company={character.company}
               quote={character.quote} />)}
+
+            <div className="react">
+              <p>Powered by React.</p>
+              <img src={logo} className="reactLogo" alt="logo" />
+            </div>  
           </React.Fragment>
           );
 }

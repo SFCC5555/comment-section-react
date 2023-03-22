@@ -1,0 +1,52 @@
+@media screen and (max-width: 600px) {
+    .characterCard {
+        width: 85%;
+    }
+    
+    img {
+        height: 50%;
+    }
+    
+    .dataSection {
+        width: 100%;
+        padding: 17px 12px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 12px;
+    }
+    
+    .name {
+        font-size: 1.4rem;
+    }
+    
+    .position {
+        font-size: 1.3rem;
+    }
+    
+    p {
+        font-size: 1.1rem;
+        line-height: 17px;
+        text-align: center;
+    }
+
+    .react {
+        gap:0px;
+        top:90%;
+        right: 0px;
+    
+      }
+      
+    .reactLogo {
+    height: 7.5vmin;
+    cursor: crosshair;
+    }
+    
+    .react p {
+    font-size: 1.1rem;
+    }
+
+
+
+}
+
