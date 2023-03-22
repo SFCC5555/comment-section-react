@@ -1,0 +1,38 @@
+.characterCard {
+    width: 70%;
+    height: 200px;
+    display: flex;
+    background-color: rgb(242, 236, 228);
+    gap: 10px;
+    box-shadow: 0px 0px 25px rgb(177, 167, 153, 65%);
+    border-radius: 2.5px;
+    overflow:hidden;
+
+}
+
+img {
+    height: 100%;
+}
+
+.dataSection {
+    width: 100%;
+    padding: 20px 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+.name {
+    font-size: 1.5rem;
+}
+
+.position {
+    font-size: 1.3rem;
+}
+
+p {
+    font-size: 1.1rem;
+    line-height: 18px;
+    text-align: center;
+}

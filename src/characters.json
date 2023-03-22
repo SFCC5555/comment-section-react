@@ -1,0 +1,28 @@
+[{"name":"Mikasa",
+"lastname":"Ackerman",
+"country":"Paradis",
+"position":"Ingeniera de Software",
+"company":"Legión de Exploración",
+"quote": "Este mundo es cruel...Y a la vez es hermoso."
+},
+{"name":"Levi",
+"lastname":"Ackerman",
+"country":"Paradis",
+"position":"Capitan",
+"company":"Legión de Exploración",
+"quote": "Nunca sé qué es lo correcto, siempre ha sido así. Aunque confío en mis fortalezas, y también en las acciones de mis compañeros de este escuadrón, nadie sabe lo que sucederá al final. Así que no te arrepientas, y toma una decisión por ti mismo."
+},
+{"name":"Eren",
+"lastname":"Jaeger",
+"country":"Marley",
+"position":"Titán de Ataque",
+"company":"Jaegeristas",
+"quote": "Lo sabía, tú y yo somos iguales. Yo seguiré adelante, hasta que haya erradicado al enemigo. Tatakae"
+},
+{"name":"Armin",
+"lastname":"Arlert",
+"country":"Marley",
+"position":"Comandante/Titán Colosal",
+"company":"Legión de Exploración",
+"quote": "Me preguntaba... si solo tal vez, había un camino diferente."
+}]
